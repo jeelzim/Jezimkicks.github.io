@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Jezim Sesame Cosmetics</title>
+   <link rel="stylesheet" href="lian.css">
+</head>
+<body>
+    <div class="banner">
+	   <div class="navbar">
+	     <img src="Jezim.png" class="logo">
+		 <ul>
+		   <li><a href="#">Home</a></li>
+		   <li><a href="#">AboutUs</a></li>
+		   <li><a href="#">Products</a></li>
+		   <li><a href="#">Shop</a></li>
+		   <li><a href="#">Packages</a></li>
+		 </ul>
+	   </div>
