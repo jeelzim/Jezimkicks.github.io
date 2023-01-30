@@ -1,3 +1,3 @@
 function myClickonHome() {
-    document.location.href="jezimsesame.html";
+    document.location.href="index.html";
 }
